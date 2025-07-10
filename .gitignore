@@ -1,0 +1,4 @@
+# prevent secrets and heavy folders from being pushed
+.env
+node_modules/
+dist/
